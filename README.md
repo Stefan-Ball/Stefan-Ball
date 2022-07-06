@@ -1,5 +1,7 @@
 Welcome, I'm @Stefan-Ball
+
 I am interested in thermal modeling scripting and learning new languages
+
 Email me @ stefanball4@gmail.com
 
 <!---
